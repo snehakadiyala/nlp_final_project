@@ -12,6 +12,7 @@ These notebooks are the notebooks we used for exploratory data analysis, the cre
 > random_forest.ipynb: Holds our TF-IDF vectorization, sampling techniques, hyper-parameter tuning and error analysis for Random Forest
 > 
 > word2vec_random_forest.ipynb: Holds the creation of the custom word2vec model and creation of Random Forest with that model 
+> LSTM + GloVe.ipynb: Holds data splitting, tokenization, batch generation, model training, loss & validation f1 score plotting, and scores (F1, precision, recall) calculation
 
 # ./model_demo_notebook/model_demo_notebook.ipynb
 > NOTE: Before running all cells, please download this folder from this [link](https://drive.google.com/drive/folders/1CJjvKK2qzKcNjpsJicQEKa3P_9uOse_E?usp=sharing)
