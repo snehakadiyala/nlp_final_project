@@ -11,3 +11,5 @@ These notebooks are the notebooks we used for exploratory data analysis, the cre
 > word2vec_random_forest.ipynb: Holds the creation of the custom word2vec model and creation of Random Forest with that model 
 
 # ./model_demo_notebook/model_demo_notebook.ipynb
+
+> random_forest_model_demo.ipynb: Run all cells in this notebook to see the implementation of our random forest notebook (Before running all cells, please download this folder from this [link](https://drive.google.com/drive/folders/1CJjvKK2qzKcNjpsJicQEKa3P_9uOse_E?usp=sharing).)
